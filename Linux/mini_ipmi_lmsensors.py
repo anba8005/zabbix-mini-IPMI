@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S python3 -W ignore::SyntaxWarning
 
 BIN_PATH = r'sensors'   # -u
 #BIN_PATH = r'/usr/bin/sensors'   # if 'sensors' isn't in PATH

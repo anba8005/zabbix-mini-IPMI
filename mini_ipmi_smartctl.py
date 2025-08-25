@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S python3 -W ignore::SyntaxWarning
 
 # Only one out of three system-specific setting is used, PATH considered.
 binPath_LINUX      = r'smartctl'
